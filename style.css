@@ -166,6 +166,10 @@ color: #1e3a8a;
     font-size: 1em;
 }
 
+.ui-pic {
+    max-width: 100%;
+    height: auto;
+}
 }
 
 .companies-section {
@@ -347,6 +351,11 @@ p {
 .numbers-grid {
     grid-template-columns: 1fr; 
 }
+.study-with-me img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
 }
 
 .container3 {
@@ -464,6 +473,11 @@ font-family: Arial, Helvetica, sans-serif;
 
 .button {
     padding: 8px 16px;
+}
+.settings img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 }
 
@@ -630,6 +644,11 @@ color: gold;
     .app-button {
         width: 80%; 
         box-sizing: border-box; 
+    }
+    .left-part img {
+        max-width: 100%;
+        height: auto;
+        display: block; 
     }
 }
 
