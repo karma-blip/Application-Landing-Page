@@ -212,12 +212,14 @@ margin: 60px;
 background-color: #f0f8ff;
 padding: 50px 20px;
 text-align: center;
+padding-top: 90px;
 }
 
 .product-heading {
 font-size: 2.5em;
 margin-bottom: 40px;
 color: #1e293b;
+padding-bottom: 30px;
 
 }
 
@@ -290,8 +292,10 @@ color: #64748b;
 text-align: left;
 font-family: sans-serif;
 display: flex;
-padding-left: 20%;
+padding-left: 16%;
 font-size: x-large;
+padding-top: 90px;
+gap: 5%;
 }
 
 .part-one{
@@ -365,9 +369,10 @@ align-items: center;
 justify-content: center;
 padding: 10px;
 text-align: center;
-padding-top: 4%;
+padding-top: 5%;
 padding-bottom: 5%;
 font-size: 1.8em;
+
 }
 
 .text-line {
@@ -720,6 +725,7 @@ footer {
     border-radius: 50%; 
     margin-right: 10px;
     font-size: 1.2em;
+    color: white;
 }
 
 .footer-bottom {
